@@ -1,3 +1,2 @@
-# RepoDi
+# Hello, this is my data science portfolio
 
-Hello, this is my data science portfolio
